@@ -6,3 +6,4 @@ def approximate_pi(n_terms):
     sum_leibniz_series = sum(leibniz_series)
     pi_approximation = 4 * sum_leibniz_series
     return pi_approximation
+ 
